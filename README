@@ -1,0 +1,2 @@
+1、备份create schema语句、create table语句采用的是xorm.engine
+2、备份表数据采用的是database/sql
